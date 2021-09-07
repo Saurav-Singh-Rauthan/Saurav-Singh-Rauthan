@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Saurav-Singh-Rauthan/Saurav-Singh-Rauthan/blob/main/ezgif.com-video-to-gif%20(1).gif" width="100%"/><br><br><br>
+<img src="https://github.com/Saurav-Singh-Rauthan/Saurav-Singh-Rauthan/blob/main/ezgif.com-gif-maker.gif" width="100%"/><br><br><br>
 
  👋 Hi, I’m @Saurav-Singh-Rauthan
 - 👀 I’m interested in web development 
